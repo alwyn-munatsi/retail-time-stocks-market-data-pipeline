@@ -1,1 +1,1 @@
-# retail-time-stocks-market-data-pipeline
+# Retail Time Stocks Market Data Pipeline
